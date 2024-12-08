@@ -113,3 +113,4 @@ This will utilize the Contact Sender and Receiver components of the VRChatSDK to
 ## Pull trigger
 You can use physbones to trigger shocks with intensity based on the distance the bone is stretched once it's released.
 Add a new parameter to a physbone component on your avatar with the same name as your group, e.g. `ShockOsc/Leg` or `ShockOsc/_All`
+Note:ShockOSC Still need 'ShockOsc/{GroupName}' parameter for pull to work.
